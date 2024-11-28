@@ -1,6 +1,9 @@
 <b>Ödev Yönergesi:</b> Aşağıdaki adımları takip ederek ödevinizi tamamlayabilirsiniz:</br>
-1. Virtualbox kurulumunu yapınız. 2. Derste belirtilen yönergelere uygun bir Vagrantfile oluşturun. 3. Bu Vagrantfile box (kullanacağı imaj) ubuntu/focal64 olmalı. 4. CPU-2 ve Memory 2048 olmalı, kaynakları kendi bilgisayarınıza göre
-düzenleyebilirsiniz. 5. Vagrantfile ile kurulumunu yapacağınız ubuntu makinesi hazır olduktansonra, dışarıdan script'i Vagrantfile içerisine import ediniz. </br>
+1. Virtualbox kurulumunu yapınız.</br> 
+2. Derste belirtilen yönergelere uygun bir Vagrantfile oluşturun.</br>
+3. Bu Vagrantfile box (kullanacağı imaj) ubuntu/focal64 olmalı.</br>
+4. CPU-2 ve Memory 2048 olmalı, kaynakları kendi bilgisayarınıza göre düzenleyebilirsiniz.</br>
+5. Vagrantfile ile kurulumunu yapacağınız ubuntu makinesi hazır olduktansonra, dışarıdan script'i Vagrantfile içerisine import ediniz. </br>
 Bu script şunları yapmalı:</br>
 a. Docker engine yüklemeli (https://docs.docker.com/engine/install/ubuntu/). </br>
 b. Hostname değiştirmeli (TR karakter kullanmadan kendi adınızı yazabilirsiniz. Örneğin, omertunc). </br>
